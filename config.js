@@ -26,34 +26,34 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/lordagam23_' 
-global.syt = 'https://youtube.com/channel/UCbbWYVvhTHz3AzfgYz4fMgg'
-global.sgh = 'https://github.com/KazeDevID/'
-global.sgc = 'https://chat.whatsapp.com/Lg1V1A0lRRA7d9Iaq117um'
-global.swa = 'wa.me/6282217590187'
-global.stg = 't.me/KenalSayaaa'
+global.sig = '-' 
+global.syt = '-'
+global.sgh = '-'
+global.sgc = '-'
+global.swa = 'wa.me/62895412779117'
+global.stg = '-'
 global.swb = 'https://'
-global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
+global.snh = '-' //Make ini aja gausah di ganti.
 global.ultahown = 'Maret 23 2023 00:00:01'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082217590187'
+global.pdana = '0895412779117'
 global.povo = '-'
-global.pgopay = '082217590187'
-global.ppulsa = '082217590187'
-global.ppulsa2 = '082217590187'
-global.psaweria = 'https://saweria.co/KazeDevID'
+global.pgopay = '-'
+global.ppulsa = '0895412779117'
+global.ppulsa2 = '-'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282217590187'
-global.nomorown = '6282217590187'
-global.namebot = 'KinakoBot'
-global.nameown = 'Lord Kaze'
+global.nomorbot = '0895412779117'
+global.nomorown = '0895412779117'
+global.namebot = 'OptimumPred'
+global.nameown = 'rezaaaa'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282217590187', 'Lord Kaze', 'true']
+  ['0895412779117', 'OptimumPred', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -93,10 +93,10 @@ global.thumbWarn = 'https://i.ibb.co/wQyLDLx/kaze.jpg'
 global.intro = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = `${global.nameown}`
-global.umurowner = '18'
-global.asalowner = 'Isekai'
-global.nomorowner = 'wa.me/6282217590187'
-global.pacarowner = 'Kinako chan><'
+global.umurowner = '-'
+global.asalowner = 'LandOfDown'
+global.nomorowner = 'wa.me/62895412779117'
+global.pacarowner = '-'
 
 /*============== TEXT ==============*/
 global.wait = '_In progress, please wait..._'
